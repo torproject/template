@@ -42,11 +42,12 @@ msgstr "Recevez les mises à jours et opportunités mensuelles du Projet Tor"
 msgid ""
 "Trademark, copyright notices, and rules for use by third parties can be "
 "found in our "
-msgstr ""
+msgstr "Les marques déposées, les mentions de copyright et les règles "
+"d'utilisation par des tiers peuvent être trouvé dans notre"
 
 #: templates/layout.html:7
 msgid "Tor Project | Tor Browser Manual"
-msgstr ""
+msgstr "Projet Tor | Manuel du Navigateur Tor"
 
 #: templates/navbar.html:4
 msgid "Tor Logo"
@@ -69,8 +70,8 @@ msgid "Permalink"
 msgstr "Permalien"
 
 #~ msgid "Configuring Tor Browser for security and usability"
-#~ msgstr ""
-#~ "Configurer le navigateur Tor pour la sécurité et la facilité d'emploi"
+#~ msgstr "Configurer le navigateur Tor pour la sécurité "
+#~ "et pour faciliter son utilisation""
 
 #~ msgid ""
 #~ "Satori is an add-on for the Chrome or Chromium browsers that allows you "
@@ -96,11 +97,11 @@ msgstr "Permalien"
 
 #~ msgid "A menu will open listing the available downloads for that language."
 #~ msgstr ""
-#~ "Un menu apparaîtra avec la liste des téléchargements proposés pour cette "
+#~ "Un menu apparaîtra avec la liste des téléchargements disponibles pour cette "
 #~ "langue."
 
 #~ msgid "Select the downloaded Tor Browser file."
-#~ msgstr "Sélectionnez le fichier du navigateur Tor téléchargé."
+#~ msgstr "Sélectionnez le fichier téléchargé du navigateur Tor."
 
 #~ msgid "Troubleshooting"
 #~ msgstr "Dépannage"
@@ -142,9 +143,9 @@ msgstr "Permalien"
 #~ "The safest and simplest way to download Tor Browser is from the official "
 #~ "Tor Project website at https://www.torproject.org."
 #~ msgstr ""
-#~ "La façon la plus sûre et la plus simple de télécharger le navigateur Tor "
-#~ "est à partir du site Web officiel du Projet Tor https://www.torproject."
-#~ "org ."
+#~ "La façon la plus sûre et simple de télécharger le navigateur Tor "
+#~ "est de le faire à partir du site Web officiel du Projet Tor "
+#~ "https://www.torprojectorg.org"
 
 #~ msgid ""
 #~ "You may be offered a choice of “32-bit” or “64-bit” software: this "
@@ -158,7 +159,7 @@ msgstr "Permalien"
 #~ msgstr "Comment supprimer le navigateur Tor de votre système ?"
 
 #~ msgid "Your download will then begin."
-#~ msgstr "Votre téléchargement commencera alors."
+#~ msgstr "Votre téléchargement pourra débuter."
 
 #~ msgid ""
 #~ "Tor Browser uses the Tor network to protect your privacy and anonymity."
