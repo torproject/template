@@ -1,0 +1,14 @@
+---
+# TODO: uncomment these!
+variables:
+  LEKTOR_BUILD_FLAGS: scss
+  #SITE_URL: site.torproject.org
+  #STAGING_URL: site.staging.torproject.net
+  #TRANSLATION_BRANCH: site-translation-branch
+
+include:
+  - project: tpo/tpa/ci-templates
+    file:
+      - lektor.yml
+      # TODO: uncomment this too!
+      #- static-shim-deploy.yml
